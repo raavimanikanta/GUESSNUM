@@ -1,0 +1,85 @@
+.container1{
+    width: 50%;
+    height: 600px;
+    border: 2px solid black;
+    margin-left: 350px;
+    background-color: black;
+    border-radius: 10px;
+}
+#btn1{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 30px;
+}
+.para{
+    color: white;
+    font-size: 30px;
+}
+.cont2{
+    display: flex;
+    justify-content: space-between;
+}
+.line{
+    width: 100%;
+    height: 5px;
+    background-color: white;
+    position: relative;
+    top: 35px;
+}
+.number{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    position: relative;
+    bottom: 10px;
+    left: 340px;
+    font-size: 500%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* .num1{
+    width: 180px;
+    height:40px;
+    /* margin: 20px; */
+    /* border: 1px solid yellow;
+    font-size: 150px;
+}  */
+#num{
+    height: 30px;
+    font-size: 30px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#butn1{
+  width: 100px;
+  height: 40px;
+  margin: 20px;
+  /* margin-right: 30px; */
+   position: relative;
+   left: -20px;
+   border-radius: 10px;
+}
+.cont3{
+    position: relative;
+    top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.left{
+    margin-top: 75px;
+}
+.right{
+    font-size: 20px;
+    color: white;
+    margin-top: 50px;
+}
+.header{
+    color: white;
+    margin-left: 230px;
+    font-size: 20px;
+}
